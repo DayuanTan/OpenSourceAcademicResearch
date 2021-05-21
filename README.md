@@ -1,2 +1,2 @@
 # OpenSourceAcademicResearch
-This repo hosts my open source academic research files, codes, data and so on.
+This repo hosts our open source academic researches files, codes, data and so on. They will be open source to the public here with license after corresponding papers have been published.  
