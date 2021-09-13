@@ -3,7 +3,7 @@ This repo hosts our open source academic researches files, codes, data and so on
 
 
 
-# Customizable Pedestrians Road Crossing Simulator (to appear)
+# Pedestrians Road Crossing Simulator (to appear)
 
 https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator
 
