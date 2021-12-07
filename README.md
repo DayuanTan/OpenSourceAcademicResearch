@@ -14,9 +14,10 @@ https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator
 ------
 # PALM: Platoons Based Adaptive Traffic Light Control System for Mixed Vehicular Traffic
 
-Published in *The 18th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2021)* http://ieeesmartworld.org/uic/
+Published in *The 18th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2021)* 
 
-- Paper on IEEE: https://ieeexplore.ieee.org/document/9604470 
+- Conference official website: http://ieeesmartworld.org/uic/ 
+- Paper on IEEE Xplore: https://ieeexplore.ieee.org/document/9604470 
 
 - [Full text PDF on ResearchGate](https://www.researchgate.net/publication/356369368_PALM_Platoons_Based_Adaptive_Traffic_Light_Control_System_for_Mixed_Vehicular_Traffic/stats#fullTextFileContent)
 
