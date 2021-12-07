@@ -16,7 +16,9 @@ https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator
 
 Published in *The 18th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2021)* http://ieeesmartworld.org/uic/
 
-Paper on IEEE: https://ieeexplore.ieee.org/document/9604470, [Full text PDF on ResearchGate](https://www.researchgate.net/publication/356369368_PALM_Platoons_Based_Adaptive_Traffic_Light_Control_System_for_Mixed_Vehicular_Traffic/stats#fullTextFileContent).
+- Paper on IEEE: https://ieeexplore.ieee.org/document/9604470 
 
-Presentation [Video](https://www.youtube.com/watch?v=1FBGxjMKMS8), Slides
+- [Full text PDF on ResearchGate](https://www.researchgate.net/publication/356369368_PALM_Platoons_Based_Adaptive_Traffic_Light_Control_System_for_Mixed_Vehicular_Traffic/stats#fullTextFileContent)
+
+- Presentation [Video](https://www.youtube.com/watch?v=1FBGxjMKMS8), Slides
 
