@@ -20,5 +20,5 @@ Published in *The 18th IEEE International Conference on Ubiquitous Intelligence 
 
 - [Full text PDF on ResearchGate](https://www.researchgate.net/publication/356369368_PALM_Platoons_Based_Adaptive_Traffic_Light_Control_System_for_Mixed_Vehicular_Traffic/stats#fullTextFileContent)
 
-- Presentation [Video](https://www.youtube.com/watch?v=1FBGxjMKMS8), Slides
+- Presentation [Video](https://www.youtube.com/watch?v=1FBGxjMKMS8), [Slides](palm/UIC-1570728556.pdf)
 
