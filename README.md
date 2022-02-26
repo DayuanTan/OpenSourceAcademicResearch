@@ -1,6 +1,8 @@
 # OpenSourceAcademicResearch
 This repo hosts our open source academic researches files, codes, data and so on. My code and all related files will be open source to the public here after corresponding papers have been published.  
 
+(More about our other researches please check out my website https://dayuantan.github.io/AboutMe/index.html)
+
 # License
 
 GNU General Public License v3.0
