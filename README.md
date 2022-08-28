@@ -14,7 +14,7 @@ https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator
 
 
 ------
-# PALM: Platoons Based Adaptive Traffic Light Control System for Mixed Vehicular Traffic
+# [PALM: Platoons Based Adaptive Traffic Light Control System for Mixed Vehicular Traffic](https://dayuantan.github.io/AboutMe/researches.html)
 
 
 <ul>
@@ -24,12 +24,13 @@ https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator
 <li>Full-text available: Paper on <a href="https://ieeexplore.ieee.org/document/9604470">IEEE Xplore</a>; Full text PDF on <a href="https://www.researchgate.net/publication/356369368_PALM_Platoons_Based_Adaptive_Traffic_Light_Control_System_for_Mixed_Vehicular_Traffic">ResearchGate</a>; Full-text PDF <a href="https://dayuantan.github.io/AboutMe/files/Dayuan_Tan_2021_PALM_Platoons_Based_Adaptive_Traffic_Light_Control_System_for_Mixed_Vehicular_Traffic.pdf">here.</a></li>
 <li>Presentation: <a href="https://www.youtube.com/watch?v=1FBGxjMKMS8">Video</a>, <a href="https://github.com/DayuanTan/OpenSourceAcademicResearch/blob/main/palm/UIC-1570728556.pdf">Slides</a>.</li>
 <li>Cite this paper: <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=PALM%3A+Platoons+Based+Adaptive+Traffic+Light+Control+System+for+Mixed+Vehicular+Traffic&btnG=">Google Scholar</a>; <a href="https://dayuantan.github.io/AboutMe/files/palm.txt">BibTex</a>.</li>
+<li>Code: <a href="">Github</a></li>
 </ul>
         
         
 
       
-# Chatbot Application on Cryptocurrency      
+# [Chatbot Application on Cryptocurrency]https://dayuantan.github.io/AboutMe/researches.html)  
 <ul>
 <li>Published in <i>2019 IEEE Conference on Computational Intelligence for Financial Engineering & Economics (CIFEr)</i>.</li> 
 <li>Authors: Qitao Xie; Dayuan Tan; <a href="https://www.csee.umbc.edu/~zt/">Ting Zhu</a>; Qingquan Zhang; Sheng Xiao; Junyu Wang; Beibei Li; Lei Sun; Ping Yi.</li>
@@ -37,5 +38,4 @@ https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator
 <li>Cite this paper: <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=Chatbot+Application+on+Cryptocurrency+qitaoxie+dayuan+tan&btnG=">Google Scholar</a>; <a href="files/chatterbot.txt">BibTex</a>.</li>
 <li>Code: <a href="https://github.com/DayuanTan/chatterbot">Github</a></li>
 <li>Demo: <a href="http://dayuantan.pythonanywhere.com/chatterbot/">Play with me!</a></li>
-<li><img src="files/chatterbot.gif"/></li>
 </ul>
