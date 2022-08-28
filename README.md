@@ -34,7 +34,7 @@ https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator
 <ul>
 <li>Published in <i>2019 IEEE Conference on Computational Intelligence for Financial Engineering & Economics (CIFEr)</i>.</li> 
 <li>Authors: Qitao Xie; Dayuan Tan; <a href="https://www.csee.umbc.edu/~zt/">Ting Zhu</a>; Qingquan Zhang; Sheng Xiao; Junyu Wang; Beibei Li; Lei Sun; Ping Yi.</li>
-<li>Full-text available: Paper on <a href="https://ieeexplore.ieee.org/abstract/document/8759121?casa_token=NDbqP4QeyZMAAAAA:OFtsYF_esT_luAuDNN655NVNFXid1UbUobCfpz5oosk59Iqj4a2Yokfub_ioR00NV-Mi7TPnIDE">IEEE Xplore</a>; Full text PDF on <a href="https://www.researchgate.net/publication/334425373_Chatbot_Application_on_Cryptocurrency">ResearchGate</a>; Full-text PDF <a href="https://dayuantan.github.io/AboutMe/blob/main/docs/files/Qitao_Xie_etal_2019_Chatbot_Application_on_Cryptocurrency.pdf">here</a>.</li>
+<li>Full-text available: Paper on <a href="https://ieeexplore.ieee.org/abstract/document/8759121?casa_token=NDbqP4QeyZMAAAAA:OFtsYF_esT_luAuDNN655NVNFXid1UbUobCfpz5oosk59Iqj4a2Yokfub_ioR00NV-Mi7TPnIDE">IEEE Xplore</a>; Full text PDF on <a href="https://www.researchgate.net/publication/334425373_Chatbot_Application_on_Cryptocurrency">ResearchGate</a>; Full-text PDF <a href="https://dayuantan.github.io/AboutMe/files/Qitao_Xie_etal_2019_Chatbot_Application_on_Cryptocurrency.pdf">here</a>.</li>
 <li>Cite this paper: <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=Chatbot+Application+on+Cryptocurrency+qitaoxie+dayuan+tan&btnG=">Google Scholar</a>; <a href="files/chatterbot.txt">BibTex</a>.</li>
 <li>Code: <a href="https://github.com/DayuanTan/chatterbot">Github</a></li>
 <li>Demo: <a href="http://dayuantan.pythonanywhere.com/chatterbot/">Play with me!</a></li>
