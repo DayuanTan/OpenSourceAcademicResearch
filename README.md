@@ -8,9 +8,20 @@ This repo hosts our open source academic researches files, codes, data and so on
 GNU General Public License v3.0
 
 
-# Pedestrians Road Crossing Simulator (to appear)
+# A Novel Pedestrian Road Crossing Simulator for Dynamic Traffic Light Scheduling Systems
 
-https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator
+
+<ul>
+<li>Published in <i>Journal of Intelligent Transportation Systems Technology Planning and Operations (JITS)</i>.</li> 
+<li>Authors: Dayuan Tan; <a href="https://www.csee.umbc.edu/~younis/">Mohamed Younis</a>; <a href="https://scholar.google.com/citations?user=Z8r6zFEAAAAJ&hl=en&oi=sra">Wassila Lalouani</a>; Shuyao Fan; Guozhi Song.</li>
+<li>JITS <a href="https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2186229?journalCode=gits20">official website</a>. (<a href="https://www.scimagojr.com/journalrank.php?category=1706&type=j&page=3&total_size=694">JCR Q1</a>. CAS SCI 2 qu).
+<li>Full-text available: Paper on <a href="https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2186229?journalCode=gits20">JITS</a>; Full text PDF on <a href="https://www.researchgate.net/publication/369183497_A_Novel_Pedestrian_Road_Crossing_Simulator_for_Dynamic_Traffic_Light_Scheduling_Systems">ResearchGate</a>; Full-text PDF <a href="">here.</a></li>
+<li>Cite this paper: <a href="">Google Scholar</a>; <a href="">BibTex</a>.</li>
+<li>Code: <a href="https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator">Github: https://github.com/DayuanTan/CustomizablePedestriansRoadCrossingSimulator</a>. Not only is our implementation, also a super good example and tutorial for SUMO beginners.</li>
+</ul>
+        
+        
+
 
 
 ------
