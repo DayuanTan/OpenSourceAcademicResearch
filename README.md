@@ -8,7 +8,7 @@ This repo hosts our open source academic researches files, codes, data and so on
 GNU General Public License v3.0
 
 
-# [A Novel Pedestrian Road Crossing Simulator for Dynamic Traffic Light Scheduling Systems]((https://dayuantan.github.io/AboutMe/researches.html))
+# [A Novel Pedestrian Road Crossing Simulator for Dynamic Traffic Light Scheduling Systems](https://dayuantan.github.io/AboutMe/researches.html)
 
 
 <ul>
