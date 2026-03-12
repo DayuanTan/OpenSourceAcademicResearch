@@ -7,7 +7,12 @@ This repo hosts our open source academic researches files, codes, data and so on
 
 GNU General Public License v3.0
 
+------
+# [Advanced Machine Learning Approaches for Real-Time Estimated Time of Arrival Prediction in Mixed Traffic Environments]
+Will add soon.
 
+
+------
 # [A Novel Pedestrian Road Crossing Simulator for Dynamic Traffic Light Scheduling Systems](https://dayuantan.github.io/AboutMe/researches.html)
 
 
@@ -40,7 +45,7 @@ GNU General Public License v3.0
         
         
 
-      
+------      
 # [Chatbot Application on Cryptocurrency](https://dayuantan.github.io/AboutMe/researches.html)  
 <ul>
 <li>Published in <i>2019 IEEE Conference on Computational Intelligence for Financial Engineering & Economics (CIFEr)</i>.</li> 
